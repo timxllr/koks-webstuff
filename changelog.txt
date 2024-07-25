@@ -1,51 +1,51 @@
-§a[+] §fAdded
-§c[-] §fRemoved
-§e[R] §fReworked
-§5[F] §fFixed
+§a[+] §rAdded
+§c[-] §rRemoved
+§e[R] §rReworked
+§5[F] §rFixed
 
 §6Version §c4.1.0 §7(§eRelease Candidate 2§7) §7| §4Changelog not complete!
-§a[+] §fAmbien HUD theme (with Original assets: New, Old, Triangle)
-§a[+] §fClientMenu
-§a[+] §fCustomCreativeTabs (Saved Chests, Saved Items, Hidden Items, Troll Items, Crash Items, Lag Items, Spawner)
-§a[+] §fModern Notifications theme (+ modes: 'Hint', 'Error', 'Success')
-§a[+] §fMusicPlayer module
-§a[+] §fKeyStrokes module
-§a[+] §fFallDamageCalc (GetDown)
-§a[+] §fLagDetector module
-§a[+] §fReachVisualizer (LineWidth 1-10)
-§a[+] §fScreenshot Notifications
-§a[+] §fCosmetics (Wings, DeadMau5 ears)
-§a[+] §fFML spoofing (ForgeModLoader)
-§a[+] §fAnimation Speed & Animate option to TabGUI (Long Text Moving)
-§a[+] §fShortcut 'STRG + Connect' (connects to server with random cracked with selected mode inside Main menu)
-§a[+] §fWaterSpeed module
-§a[+] §fZoot module
-§a[+] §fAutoAccept module
-§a[+] §fMassCommand (spam requests to other players to annoy them)
-§a[+] §fParkour module
-§a[+] §fDeathDerp module
-§a[+] §fTabComplete Crasher mode
-§a[+] §fEnchant command
-§a[+] §fSkull command
-§a[+] §fCrash Chest, Crash Spawner, Lag Book, Crash Skulls (to CustomCreativeTabs)
-§a[+] §fKiller Potion, Troll Potion, Fake OP Spawn Egg, Crash Anvil (to CustomCreativeTabs)
-§a[+] §fGuillements & Vertical Bar separator (to ArrayList)
-§a[+] §fShow Titles (option for 'Camera' module)
-§a[+] §fCommandBlock command (get a command block with stored command inside)
-§a[+] §fCommand Minecart & Crash (Spawner command)
-§a[+] §fRcon command (bruteforce, login, send, etc.)
-§a[+] §fLagSign & CrashSign (TranslationSigns)
-§a[+] §fHurtColor module
-§a[+] §fNew Fixes for ExploitFixer (Book Exploit Fixes)
-§a[+] §fDestroyer Spawner to Spawner Command
-§a[+] §fAnother Teleport Spawner to Spawner Command (teleports players always to a specified location)
-§a[+] §fNoXP module
-§a[+] §fIgnore Blacklist to Scaffold
-§c[-] §fKeyStrokes theme 'Shadow' (buggy)
-§c[-] §fStronghold Command (wasn't accurate & more complicated than we thought)
-§e[R] §fNotifications (extracted from HUD module)
-§e[R] §fDeadMau5 ears (extracted from RenderChanger to Cosmetics)
-§5[F] §fScrolling bug inside ClickGUI
-§5[F] §fConnecting to multiplayer text (in all resolutions)
+§a[+] §rAmbien HUD theme (with Original assets: New, Old, Triangle)
+§a[+] §rClientMenu
+§a[+] §rCustomCreativeTabs (Saved Chests, Saved Items, Hidden Items, Troll Items, Crash Items, Lag Items, Spawner)
+§a[+] §rModern Notifications theme (+ modes: 'Hint', 'Error', 'Success')
+§a[+] §rMusicPlayer module
+§a[+] §rKeyStrokes module
+§a[+] §rFallDamageCalc (GetDown)
+§a[+] §rLagDetector module
+§a[+] §rReachVisualizer (LineWidth 1-10)
+§a[+] §rScreenshot Notifications
+§a[+] §rCosmetics (Wings, DeadMau5 ears)
+§a[+] §rFML spoofing (ForgeModLoader)
+§a[+] §rAnimation Speed & Animate option to TabGUI (Long Text Moving)
+§a[+] §rShortcut 'STRG + Connect' (connects to server with random cracked with selected mode inside Main menu)
+§a[+] §rWaterSpeed module
+§a[+] §rZoot module
+§a[+] §rAutoAccept module
+§a[+] §rMassCommand (spam requests to other players to annoy them)
+§a[+] §rParkour module
+§a[+] §rDeathDerp module
+§a[+] §rTabComplete Crasher mode
+§a[+] §rEnchant command
+§a[+] §rSkull command
+§a[+] §rCrash Chest, Crash Spawner, Lag Book, Crash Skulls (to CustomCreativeTabs)
+§a[+] §rKiller Potion, Troll Potion, Fake OP Spawn Egg, Crash Anvil (to CustomCreativeTabs)
+§a[+] §rGuillements & Vertical Bar separator (to ArrayList)
+§a[+] §rShow Titles (option for 'Camera' module)
+§a[+] §rCommandBlock command (get a command block with stored command inside)
+§a[+] §rCommand Minecart & Crash (Spawner command)
+§a[+] §rRcon command (bruteforce, login, send, etc.)
+§a[+] §rLagSign & CrashSign (TranslationSigns)
+§a[+] §rHurtColor module
+§a[+] §rNew Fixes for ExploitFixer (Book Exploit Fixes)
+§a[+] §rDestroyer Spawner to Spawner Command
+§a[+] §rAnother Teleport Spawner to Spawner Command (teleports players always to a specified location)
+§a[+] §rNoXP module
+§a[+] §rIgnore Blacklist to Scaffold
+§c[-] §rKeyStrokes theme 'Shadow' (buggy)
+§c[-] §rStronghold Command (wasn't accurate & more complicated than we thought)
+§e[R] §rNotifications (extracted from HUD module)
+§e[R] §rDeadMau5 ears (extracted from RenderChanger to Cosmetics)
+§5[F] §rScrolling bug inside ClickGUI
+§5[F] §rConnecting to multiplayer text (in all resolutions)
 
 §4Versions before §c4.1.0 §4are not documented (yet).
