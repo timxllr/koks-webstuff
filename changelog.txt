@@ -2,3 +2,5 @@
 §a[+] §fClientMenu
 §a[+] §fReachVisualizer
 §a[+] §fMusicPlayer
+
+§4Versions before §c4.1.0 §4are not documented (yet).
