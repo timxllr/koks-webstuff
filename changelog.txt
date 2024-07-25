@@ -1,10 +1,4 @@
-Test Changelog
-§aVersion §c4.1.0
-We can do it. If we can do it, you can skid it.
-Don't be a Skid. Be awesome instead.
-Let's make this changelog way too long, to test stencil.
-And maybe also test scrolling
-of the
-beautiful
-Changelog screen
-inside Client Menu.
+§6Version §c4.1.0 §7(§eRelease Candidate 2§7)
+§a[+] §fClientMenu
+§a[+] §fReachVisualizer
+§a[+] §fMusicPlayer
