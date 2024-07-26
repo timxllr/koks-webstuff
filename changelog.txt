@@ -25,6 +25,7 @@
 §a[+] §rMassCommand (spam requests to other players to annoy them)
 §a[+] §rParkour module
 §a[+] §rLightningDetector module
+§a[+] §rDelay option for AutoRespawn module
 §a[+] §rDeathDerp module
 §a[+] §rEnchant command
 §a[+] §rSkull command
