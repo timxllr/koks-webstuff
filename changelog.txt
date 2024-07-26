@@ -15,16 +15,17 @@
 §a[+] §rReachVisualizer (LineWidth 1-10)
 §a[+] §rScreenshot Notifications
 §a[+] §rCosmetics (Wings, DeadMau5 ears)
-§a[+] §rFML spoofing (ForgeModLoader)
+§a[+] §rSpoofing modes 'FML' (ForgeModLoader) & 'CB' (CheatBreaker)
 §a[+] §rAnimation Speed & Animate option to TabGUI (Long Text Moving)
 §a[+] §rShortcut 'STRG + Connect' (connects to server with random cracked with selected mode inside Main menu)
+§a[+] §rCrasher modes 'TabComplete', 'Essentials' & 'Promote'
 §a[+] §rWaterSpeed module
 §a[+] §rZoot module
 §a[+] §rAutoAccept module
 §a[+] §rMassCommand (spam requests to other players to annoy them)
 §a[+] §rParkour module
+§a[+] §rLightningDetector module
 §a[+] §rDeathDerp module
-§a[+] §rTabComplete Crasher mode
 §a[+] §rEnchant command
 §a[+] §rSkull command
 §a[+] §rCrash Chest, Crash Spawner, Lag Book, Crash Skulls (to CustomCreativeTabs)
